@@ -2,6 +2,13 @@
 
 * [Preface](README.md)
 
+## XtressTwins
+
+* [Hyperledger Fabric for Trusted IoT](xtresstwins/hyperledger-fabric-for-trusted-iot.md)
+* [Take corrective actions at the edge based on predictive analytics of IoT sensor data](xtresstwins/take-corrective-actions-at-the-edge-based-on-predictive-analytics-of-iot-sensor-data.md)
+* [Change Point Detection in Time Series Sensor data](xtresstwins/change-point-detection-in-time-series-sensor-data.md)
+* [Equipment Failure Prediction using IoT Sensor data](xtresstwins/equipment-failure-prediction-using-iot-sensor-data.md)
+
 ## IoT
 
 * [Getting Started](iot/getting-started/README.md)
